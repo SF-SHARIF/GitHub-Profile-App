@@ -77,12 +77,13 @@
 
 
     .box .bio {
-        padding: 20px;
-        margin-bottom: 0%;
-        box-shadow: inset 0px 3px 1px 0 black;
-        border-radius: inherit;
-        min-height: 150px;
-        min-width: 440px;
+    padding: 20px;
+    margin-bottom: 0%;
+    box-shadow: inset 0px 3px 1px 0 black;
+    border-radius: inherit;
+    min-height: 150px;
+    max-width: 440px;
+    word-wrap: break-word;
     }
 
 
